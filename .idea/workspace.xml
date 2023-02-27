@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b87f7a16-8b40-43aa-91db-9b4614e9c01a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeeCrowd-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Bee1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Bee1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Bee1002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Bee1003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Bee1004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Bee1005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Bee1006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Bee1007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Bee1013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Bee1015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MKRElyy3cScxlcMjH0DPLt3DAa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Bee1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios.Bee1000" />
+      <module name="BeeCrowd-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bee1000" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b87f7a16-8b40-43aa-91db-9b4614e9c01a" name="Changes" comment="" />
+      <created>1677514179982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677514179982</updated>
+    </task>
+    <servers />
+  </component>
+</project>
